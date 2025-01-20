@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/imgres?q=yaz%C4%B1l%C4%B1mc%C4%B1%20%20i%C3%A7in%20kapak%20foto%C4%9Fraf%C4%B1%20hd&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F871030872%2Ftr%2Ffoto%25C4%259Fraf%2Fprogramlama-kod-soyut-teknolojik-altyap%25C4%25B1-yaz%25C4%25B1l%25C4%25B1m-geli%25C5%259Ftirici.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DjxLjqHtOL1aLHSDWvAJh93Iu4K4_U4ESboKwl1lOcpo%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Ftr%2Ffoto%25C4%259Fraflar%2Fbilgisayar-yaz%25C4%25B1l%25C4%25B1m%25C4%25B1&docid=WncskgZgeEIJxM&tbnid=bjX8Xb1TyzTlDM&vet=12ahUKEwisy7i9vISLAxX7SfEDHR1xDd0QM3oECBcQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwisy7i9vISLAxX7SfEDHR1xDd0QM3oECBcQAA)
+
 
 <h1 align="center">Hi 👋, I'm Alperen Aydıner</h1>
 <h3 align="center">A passionate frontend developer from Türkiye.</h3>
